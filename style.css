@@ -5,3 +5,15 @@ body {
 h1{
     color:blue
     font-size: 50px;
+}
+
+.principal{
+    background-color: rgb(162, 156, 149);
+    font-size: 30px;
+}
+#cristiano.jpg{
+    max-width: 100%
+    height:auto;
+    margin-left:auto;
+    margin-hight:auto
+}
